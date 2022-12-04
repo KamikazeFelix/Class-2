@@ -1,0 +1,5 @@
+The Hospital  Facilities are:
+Ambulance
+Admissions
+Canteen
+Emergency
